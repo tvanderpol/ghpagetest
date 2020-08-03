@@ -1,3 +1,5 @@
 theme: minima
 
+baseurl: /ghpagetest
+
 title: "Jekyll Actions Demo"
